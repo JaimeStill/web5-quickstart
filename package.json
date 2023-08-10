@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@tbd54566975/web5": "^0.7.11"
+  },
+  "type": "module"
+}

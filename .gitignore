@@ -1,0 +1,6 @@
+DATASTORE/
+EVENTLOG/
+INDEX/
+MESSAGESTORE/
+node_modules/
+data/
